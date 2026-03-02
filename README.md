@@ -6,18 +6,9 @@ Indie Game Deveveloper from Ukraine
 
 ---
 
-<div>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=black" />
-</div>
-
----
-
 ### Currently working on:
 
 Retrolite
-
 En
 
 ---
