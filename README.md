@@ -2,11 +2,7 @@
 
 Indie Game Deveveloper from Ukraine
 
-### Currently working on:
-
-Retrolite
-
-En
+### Currently working on Retrolite
 
 ---
 
