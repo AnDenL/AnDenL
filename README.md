@@ -2,8 +2,10 @@
 
 Indie Game Deveveloper from Ukraine
 
-### Currently working on Retrolite
+### Still working on Retrolite but now on codeberg
 
 ---
 
 [🎮 My Itch.io](https://andenl.itch.io/)
+
+[My codeberg](https://codeberg.org/AnDenL)
